@@ -16,6 +16,13 @@ const exercises = [
       reps: '10 reps x 3 sets',
       thumbnail: 'https://www.inspireusafoundation.org/wp-content/uploads/2022/11/pull-up-variations.jpg',
     },
+    {
+      id: 3,
+      name: 'Squats',
+      description: 'Get them quads pumping',
+      reps: '10 reps x 3 sets',
+      thumbnail: 'https://weighttraining.guide/wp-content/uploads/2018/07/Bodyweight-squat-resized.png',
+    },
     // add more exercises here...
   ];
 const ExerciseScreen = () => {
