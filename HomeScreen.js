@@ -28,8 +28,8 @@ const styles = StyleSheet.create({
     margin: 10,
   },
   image: {
-    flex: 2/3,
-    width: '100%',
+    flex: 1/2,
+    width: '90%',
     resizeMode: 'contain',
   },
 });
